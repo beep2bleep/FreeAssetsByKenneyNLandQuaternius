@@ -1,0 +1,12 @@
+# Blender MTL File: 'Tumbleweed.blend'
+# Material Count: 1
+
+newmtl Tumbleweed
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.196954 0.098037 0.056351
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

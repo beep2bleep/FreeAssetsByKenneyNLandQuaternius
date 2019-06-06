@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: a3c801c47e344e84fa974f29288b2b16
+timeCreated: 1541081261
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eec4843aecc48662205dd573014762e2
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.79023576, y: 10.421424, z: -13.136057}
+      lookAt: {x: 1.3030411, y: 7.4234366, z: -10.112049}
+      up: {x: 0.11686574, y: 0.715127, z: 0.6891558}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: rock_large5
+    100006: Group 6
+    100008: Group 8
+    100010: palm_small
+    100012: Group 11
+    100014: Group 13
+    100016: Group 16
+    100018: Group 18
+    100020: palm_small 1
+    100022: palm_small 2
+    100024: Group 12
+    100026: Group 21
+    100028: Group 3
+    100030: palm_small 3
+    100032: palm_small 4
+    100034: palm_small 5
+    100036: palm_small 6
+    100038: palm_small 7
+    100040: palm_small 8
+    100042: rock_large5 1
+    100044: rock_large5 2
+    100046: Group 30
+    100048: Group 39
+    100050: Group 48
+    100052: palm_small 10
+    100054: palm_small 11
+    100056: palm_small 12
+    100058: palm_small 13
+    100060: palm_small 14
+    100062: palm_small 15
+    100064: palm_small 16
+    100066: palm_small 17
+    100068: palm_small 9
+    100070: rock_large5 3
+    100072: rock_large5 4
+    100074: rock_large5 5
+    100076: Group 31
+    100078: Group 40
+    100080: Group 49
+    100082: Group 58
+    100084: Group 59
+    100086: Group 68
+    100088: Group 77
+    100090: palm_small 18
+    100092: palm_small 19
+    100094: palm_small 20
+    100096: palm_small 21
+    100098: palm_small 22
+    100100: palm_small 23
+    100102: palm_small 24
+    100104: palm_small 25
+    100106: palm_small 26
+    100108: rock_large5 6
+    100110: rock_large5 7
+    100112: rock_large5 8
+    100114: Group 86
+    100116: palm_small 27
+    100118: palm_small 28
+    100120: palm_small 29
+    100122: rock_large5 9
+    100124: Group 95
+    100126: palm_small 30
+    100128: palm_small 31
+    100130: palm_small 32
+    100132: rock_large5 10
+    100134: Group 104
+    100136: Group 113
+    100138: Group 115
+    100140: Group 117
+    100142: palm_small 33
+    100144: palm_small 34
+    100146: palm_small 35
+    100148: rock_large5 11
+    100150: rock_large5 12
+    100152: palm_small 36
+    100154: palm_small 37
+    100156: palm_small 38
+    100158: palm_small 39
+    100160: palm_small 40
+    100162: Group 10
+    100164: Group 102
+    100166: Group 111
+    100168: Group 19
+    100170: Group 28
+    100172: Group 29
+    100174: Group 38
+    100176: Group 47
+    100178: Group 56
+    100180: Group 57
+    100182: Group 66
+    100184: Group 75
+    100186: Group 84
+    100188: Group 93
+    100190: Group 119
+    100192: Group 121
+    100194: Group 123
+    400000: //RootNode
+    400002: Group 1
+    400004: rock_large5
+    400006: Group 6
+    400008: Group 8
+    400010: palm_small
+    400012: Group 11
+    400014: Group 13
+    400016: Group 16
+    400018: Group 18
+    400020: palm_small 1
+    400022: palm_small 2
+    400024: Group 12
+    400026: Group 21
+    400028: Group 3
+    400030: palm_small 3
+    400032: palm_small 4
+    400034: palm_small 5
+    400036: palm_small 6
+    400038: palm_small 7
+    400040: palm_small 8
+    400042: rock_large5 1
+    400044: rock_large5 2
+    400046: Group 30
+    400048: Group 39
+    400050: Group 48
+    400052: palm_small 10
+    400054: palm_small 11
+    400056: palm_small 12
+    400058: palm_small 13
+    400060: palm_small 14
+    400062: palm_small 15
+    400064: palm_small 16
+    400066: palm_small 17
+    400068: palm_small 9
+    400070: rock_large5 3
+    400072: rock_large5 4
+    400074: rock_large5 5
+    400076: Group 31
+    400078: Group 40
+    400080: Group 49
+    400082: Group 58
+    400084: Group 59
+    400086: Group 68
+    400088: Group 77
+    400090: palm_small 18
+    400092: palm_small 19
+    400094: palm_small 20
+    400096: palm_small 21
+    400098: palm_small 22
+    400100: palm_small 23
+    400102: palm_small 24
+    400104: palm_small 25
+    400106: palm_small 26
+    400108: rock_large5 6
+    400110: rock_large5 7
+    400112: rock_large5 8
+    400114: Group 86
+    400116: palm_small 27
+    400118: palm_small 28
+    400120: palm_small 29
+    400122: rock_large5 9
+    400124: Group 95
+    400126: palm_small 30
+    400128: palm_small 31
+    400130: palm_small 32
+    400132: rock_large5 10
+    400134: Group 104
+    400136: Group 113
+    400138: Group 115
+    400140: Group 117
+    400142: palm_small 33
+    400144: palm_small 34
+    400146: palm_small 35
+    400148: rock_large5 11
+    400150: rock_large5 12
+    400152: palm_small 36
+    400154: palm_small 37
+    400156: palm_small 38
+    400158: palm_small 39
+    400160: palm_small 40
+    400162: Group 10
+    400164: Group 102
+    400166: Group 111
+    400168: Group 19
+    400170: Group 28
+    400172: Group 29
+    400174: Group 38
+    400176: Group 47
+    400178: Group 56
+    400180: Group 57
+    400182: Group 66
+    400184: Group 75
+    400186: Group 84
+    400188: Group 93
+    400190: Group 119
+    400192: Group 121
+    400194: Group 123
+    2300000: //RootNode
+    2300002: Group 1
+    2300004: rock_large5
+    2300006: Group 6
+    2300008: Group 8
+    2300010: Group 11
+    2300012: Group 13
+    2300014: Group 16
+    2300016: Group 18
+    2300018: palm_small
+    2300020: palm_small 1
+    2300022: palm_small 2
+    2300024: palm_small 3
+    2300026: palm_small 4
+    2300028: palm_small 5
+    2300030: palm_small 6
+    2300032: palm_small 7
+    2300034: palm_small 8
+    2300036: rock_large5 1
+    2300038: rock_large5 2
+    2300040: palm_small 10
+    2300042: palm_small 11
+    2300044: palm_small 12
+    2300046: palm_small 13
+    2300048: palm_small 14
+    2300050: palm_small 15
+    2300052: palm_small 16
+    2300054: palm_small 17
+    2300056: palm_small 9
+    2300058: rock_large5 3
+    2300060: rock_large5 4
+    2300062: rock_large5 5
+    2300064: palm_small 18
+    2300066: palm_small 19
+    2300068: palm_small 20
+    2300070: palm_small 21
+    2300072: palm_small 22
+    2300074: palm_small 23
+    2300076: palm_small 24
+    2300078: palm_small 25
+    2300080: palm_small 26
+    2300082: rock_large5 6
+    2300084: rock_large5 7
+    2300086: rock_large5 8
+    2300088: palm_small 27
+    2300090: palm_small 28
+    2300092: palm_small 29
+    2300094: rock_large5 9
+    2300096: palm_small 30
+    2300098: palm_small 31
+    2300100: palm_small 32
+    2300102: rock_large5 10
+    2300104: Group 113
+    2300106: Group 115
+    2300108: Group 117
+    2300110: palm_small 33
+    2300112: palm_small 34
+    2300114: palm_small 35
+    2300116: rock_large5 11
+    2300118: rock_large5 12
+    2300120: palm_small 36
+    2300122: palm_small 37
+    2300124: palm_small 38
+    2300126: palm_small 39
+    2300128: palm_small 40
+    2300130: Group 111
+    2300132: Group 119
+    2300134: Group 121
+    2300136: Group 123
+    3300000: //RootNode
+    3300002: Group 1
+    3300004: rock_large5
+    3300006: Group 6
+    3300008: Group 8
+    3300010: Group 11
+    3300012: Group 13
+    3300014: Group 16
+    3300016: Group 18
+    3300018: palm_small
+    3300020: palm_small 1
+    3300022: palm_small 2
+    3300024: palm_small 3
+    3300026: palm_small 4
+    3300028: palm_small 5
+    3300030: palm_small 6
+    3300032: palm_small 7
+    3300034: palm_small 8
+    3300036: rock_large5 1
+    3300038: rock_large5 2
+    3300040: palm_small 10
+    3300042: palm_small 11
+    3300044: palm_small 12
+    3300046: palm_small 13
+    3300048: palm_small 14
+    3300050: palm_small 15
+    3300052: palm_small 16
+    3300054: palm_small 17
+    3300056: palm_small 9
+    3300058: rock_large5 3
+    3300060: rock_large5 4
+    3300062: rock_large5 5
+    3300064: palm_small 18
+    3300066: palm_small 19
+    3300068: palm_small 20
+    3300070: palm_small 21
+    3300072: palm_small 22
+    3300074: palm_small 23
+    3300076: palm_small 24
+    3300078: palm_small 25
+    3300080: palm_small 26
+    3300082: rock_large5 6
+    3300084: rock_large5 7
+    3300086: rock_large5 8
+    3300088: palm_small 27
+    3300090: palm_small 28
+    3300092: palm_small 29
+    3300094: rock_large5 9
+    3300096: palm_small 30
+    3300098: palm_small 31
+    3300100: palm_small 32
+    3300102: rock_large5 10
+    3300104: Group 113
+    3300106: Group 115
+    3300108: Group 117
+    3300110: palm_small 33
+    3300112: palm_small 34
+    3300114: palm_small 35
+    3300116: rock_large5 11
+    3300118: rock_large5 12
+    3300120: palm_small 36
+    3300122: palm_small 37
+    3300124: palm_small 38
+    3300126: palm_small 39
+    3300128: palm_small 40
+    3300130: Group 111
+    3300132: Group 119
+    3300134: Group 121
+    3300136: Group 123
+    4300000: Mesh islands
+    4300002: Mesh Group 1
+    4300004: Mesh rock_large5
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh palm_small
+    4300012: Mesh Group 113
+    4300014: Mesh Group 115
+    4300016: Mesh Group 117
+    4300018: Mesh Group 111
+    4300020: Mesh Group 119
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

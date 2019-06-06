@@ -1,0 +1,61 @@
+**Changelog 0.2.0:**
+
+- **Added animation features!** (create, edit and export animations)
+- New setting: Background color
+- New setting: Grid size (hold *shift* while dragging to snap to grid)
+- New setting: Selection box type
+- New setting: Mask border display
+- Added 3D shader effect (see FX tab)
+- Added help prompts (more will be added)
+- Added button to center asset in workplace (new tab)
+- Added support for pixel art elements (snapping, scaling, rotation)
+- Show element ID in *elements* overview tab
+- Show selected element in *elements* overview tab
+- Fixed context menu behavior
+
+---
+
+**Collections:**
+
+- **New collection:** Alien character
+- **New collection:** Building elements
+- Tanks 'n Boats collection: New options for *porthole* element
+- Tanks 'n Boats collection: Ability to disable *mouth* in *face* element
+- Tanks 'n Boats collection: Ability to change *gun* element color
+
+	###
+
+**Changelog 0.1.2:**
+
+- Added masking options
+- Added option to enter filename
+- Added option to add increasing number to filename
+- Added option to automatically save retina sizes (2×, 3× and 4×)
+- Added intro screen
+- Added template selection on intro screen
+- Delete object with delete, backspace or D key
+- Added file filtering for template loading
+- Minor bugfixes
+
+**Collections:**
+
+- New collection: Voxel pack (character, item and tile)
+
+	###
+
+**Changelog 0.1.1:**
+
+- Button values loop
+- Improved color dialog (new colors, better palette)
+- Added effect: Outline
+- Added effect: Highlight
+- Added effect: Color adjustment
+- Fixed scrollbar issues
+- Associated .ken file type
+
+**Collections:**
+
+- New collection: Rockets
+- New collection: UI Elements
+- Spaceship collection: Added 'intake' element
+- Tanks 'n Boats collection: Added more options to the 'porthole' element

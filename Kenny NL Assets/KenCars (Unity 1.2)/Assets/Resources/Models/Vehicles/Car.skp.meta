@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 131d28de1b2a5b64d9cb45008b60eaa3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d967713210ae72bb589f8ec85c73d27b
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.6016118, y: 0.48806003, z: -0.90518814}
+      lookAt: {x: -0.16196729, y: 0.22560479, z: -0.33037218}
+      up: {x: 0.20712885, y: 0.94008434, z: 0.2708119}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Component#1
+    100006: Component#1 1
+    100008: Component#2
+    100010: Component#2 1
+    100012: Component#2 2
+    100014: Component#2 3
+    100016: Group 2
+    100018: Group 9
+    100020: Group 11
+    100022: Group 13
+    100024: Group 4
+    100026: Group 15
+    100028: Group 17
+    100030: Group 6
+    100032: Group 19
+    100034: Group 21
+    100036: Group 8
+    100038: wheel_backLeft
+    100040: wheel_backRight
+    100042: wheel_frontLeft
+    100044: wheel_frontRight
+    100046: body
+    100048: bumper
+    100050: bumper 1
+    100052: mirror
+    100054: mirror 1
+    100056: car
+    100058: holder
+    100060: wheelFrontLeft
+    100062: wheelFrontRight
+    100064: wheelRearLeft
+    100066: wheelRearRight
+    100068: container
+    400000: //RootNode
+    400002: Group 1
+    400004: Component#1
+    400006: Component#1 1
+    400008: Component#2
+    400010: Component#2 1
+    400012: Component#2 2
+    400014: Component#2 3
+    400016: Group 2
+    400018: Group 9
+    400020: Group 11
+    400022: Group 13
+    400024: Group 4
+    400026: Group 15
+    400028: Group 17
+    400030: Group 6
+    400032: Group 19
+    400034: Group 21
+    400036: Group 8
+    400038: wheel_backLeft
+    400040: wheel_backRight
+    400042: wheel_frontLeft
+    400044: wheel_frontRight
+    400046: body
+    400048: bumper
+    400050: bumper 1
+    400052: mirror
+    400054: mirror 1
+    400056: car
+    400058: holder
+    400060: wheelFrontLeft
+    400062: wheelFrontRight
+    400064: wheelRearLeft
+    400066: wheelRearRight
+    400068: container
+    2100000: _defaultMat
+    2300000: Group 1
+    2300002: Component#2
+    2300004: Component#2 1
+    2300006: Component#2 2
+    2300008: Component#2 3
+    2300010: Group 2
+    2300012: Group 9
+    2300014: Group 11
+    2300016: Group 13
+    2300018: Group 4
+    2300020: Group 15
+    2300022: Group 17
+    2300024: Group 6
+    2300026: Group 19
+    2300028: Group 21
+    2300030: Group 8
+    2300032: //RootNode
+    2300034: wheel_backLeft
+    2300036: wheel_backRight
+    2300038: wheel_frontLeft
+    2300040: wheel_frontRight
+    2300042: body
+    2300044: bumper
+    2300046: bumper 1
+    2300048: mirror
+    2300050: mirror 1
+    2300052: wheelFrontLeft
+    2300054: wheelFrontRight
+    2300056: wheelRearLeft
+    2300058: wheelRearRight
+    3300000: Group 1
+    3300002: Component#2
+    3300004: Component#2 1
+    3300006: Component#2 2
+    3300008: Component#2 3
+    3300010: Group 2
+    3300012: Group 9
+    3300014: Group 11
+    3300016: Group 13
+    3300018: Group 4
+    3300020: Group 15
+    3300022: Group 17
+    3300024: Group 6
+    3300026: Group 19
+    3300028: Group 21
+    3300030: Group 8
+    3300032: //RootNode
+    3300034: wheel_backLeft
+    3300036: wheel_backRight
+    3300038: wheel_frontLeft
+    3300040: wheel_frontRight
+    3300042: body
+    3300044: bumper
+    3300046: bumper 1
+    3300048: mirror
+    3300050: mirror 1
+    3300052: wheelFrontLeft
+    3300054: wheelFrontRight
+    3300056: wheelRearLeft
+    3300058: wheelRearRight
+    4300000: Mesh Group 1
+    4300002: Mesh Group 2
+    4300004: Mesh Component#2
+    4300006: Mesh Group 4
+    4300008: Mesh Group 6
+    4300010: Mesh Group 8
+    4300012: Mesh default
+    4300014: Mesh wheel_frontRight
+    4300016: Mesh body
+    4300018: Mesh bumper
+    4300020: Mesh mirror
+    4300022: Mesh bumper
+    4300024: Mesh wheel_frontLeft
+    4300026: Mesh wheelFrontLeft
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: c290b1beb839c564eb4d6e1c244ede6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 209c4f22364a09b4aaa26c027003f335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake
+    second: {fileID: 2100000, guid: b9467b1e418517b4995a50e017f57739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a53c43b2146365e4dbace655b21c06e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: e62ea67049094b740ba5fef686d53576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 7a4bf4d92275d294db53b5b404715840, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: a5fc74477bc54e44bb211679b6f2ea7e
+timeCreated: 1541372660
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4fd5f3076100cde2180ca5861085e95d
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.8643303, y: 1.5414987, z: 1.8574924}
+      lookAt: {x: -1.030848, y: 0.41191453, z: 0.43654597}
+      up: {x: 0.34605438, y: 0.899066, z: -0.2681917}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: body
+    100004: //RootNode
+    100006: engineLeft
+    100008: engineRight
+    100010: flap
+    100012: flap 1
+    100014: wingLeft
+    100016: wingRight
+    400000: back
+    400002: body
+    400004: //RootNode
+    400006: engineLeft
+    400008: engineRight
+    400010: flap
+    400012: flap 1
+    400014: wingLeft
+    400016: wingRight
+    2300000: back
+    2300002: body
+    2300004: engineLeft
+    2300006: engineRight
+    2300008: flap
+    2300010: flap 1
+    2300012: wingLeft
+    2300014: wingRight
+    2300016: //RootNode
+    3300000: back
+    3300002: body
+    3300004: engineLeft
+    3300006: engineRight
+    3300008: flap
+    3300010: flap 1
+    3300012: wingLeft
+    3300014: wingRight
+    3300016: //RootNode
+    4300000: Mesh body
+    4300002: Mesh back
+    4300004: Mesh engineRight
+    4300006: Mesh wingRight
+    4300008: Mesh flap
+    4300010: Mesh bomb
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

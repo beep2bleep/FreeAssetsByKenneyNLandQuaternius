@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: e78ed7f3b69743e4690bf3a89385eb66
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b19aa777efd0fd624344b1330e64b7d6
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.229528, y: 0.2653301, z: -0.49584457}
+      lookAt: {x: 0.09148446, y: 0.080717385, z: -0.23617388}
+      up: {x: -0.24957083, y: 0.8469472, z: 0.46946228}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: container
+    100002: Group 11
+    100004: Group 13
+    100006: Group 15
+    100008: Group 19
+    100010: Group 2
+    100012: Group 21
+    100014: Group 3
+    100016: Group 5
+    100018: Group 7
+    100020: Group 9
+    100022: light_left
+    100024: //RootNode
+    100026: wheelFrontLeft
+    100028: wheelFrontRight
+    100030: wheelRearLeft
+    100032: wheelRearRight
+    100034: body
+    100036: Group 17
+    100038: Group 23
+    100040: Group 25
+    100042: Group 27
+    100044: handle
+    100046: handle 1
+    100048: handleBar
+    100050: headLight
+    100052: Group 29
+    100054: bagLeft
+    100056: bagRight
+    100058: engine
+    100060: exhaustLeft
+    100062: exhaustRight
+    100064: fenderBack
+    100066: fenderFront
+    100068: seat
+    100070: tank
+    400000: container
+    400002: Group 11
+    400004: Group 13
+    400006: Group 15
+    400008: Group 19
+    400010: Group 2
+    400012: Group 21
+    400014: Group 3
+    400016: Group 5
+    400018: Group 7
+    400020: Group 9
+    400022: light_left
+    400024: //RootNode
+    400026: wheelFrontLeft
+    400028: wheelFrontRight
+    400030: wheelRearLeft
+    400032: wheelRearRight
+    400034: body
+    400036: Group 17
+    400038: Group 23
+    400040: Group 25
+    400042: Group 27
+    400044: handle
+    400046: handle 1
+    400048: handleBar
+    400050: headLight
+    400052: Group 29
+    400054: bagLeft
+    400056: bagRight
+    400058: engine
+    400060: exhaustLeft
+    400062: exhaustRight
+    400064: fenderBack
+    400066: fenderFront
+    400068: seat
+    400070: tank
+    2100000: _defaultMat
+    2100002: tire
+    2100004: body
+    2100006: metal
+    2300000: Group 11
+    2300002: Group 13
+    2300004: Group 15
+    2300006: Group 19
+    2300008: Group 21
+    2300010: Group 3
+    2300012: Group 5
+    2300014: Group 7
+    2300016: Group 9
+    2300018: light_left
+    2300020: wheelFrontLeft
+    2300022: wheelFrontRight
+    2300024: wheelRearLeft
+    2300026: wheelRearRight
+    2300028: Group 17
+    2300030: Group 23
+    2300032: Group 25
+    2300034: Group 27
+    2300036: handle
+    2300038: handle 1
+    2300040: handleBar
+    2300042: headLight
+    2300044: Group 29
+    2300046: bagLeft
+    2300048: bagRight
+    2300050: engine
+    2300052: exhaustLeft
+    2300054: exhaustRight
+    2300056: fenderBack
+    2300058: fenderFront
+    2300060: seat
+    2300062: tank
+    3300000: Group 11
+    3300002: Group 13
+    3300004: Group 15
+    3300006: Group 19
+    3300008: Group 21
+    3300010: Group 3
+    3300012: Group 5
+    3300014: Group 7
+    3300016: Group 9
+    3300018: light_left
+    3300020: wheelFrontLeft
+    3300022: wheelFrontRight
+    3300024: wheelRearLeft
+    3300026: wheelRearRight
+    3300028: Group 17
+    3300030: Group 23
+    3300032: Group 25
+    3300034: Group 27
+    3300036: handle
+    3300038: handle 1
+    3300040: handleBar
+    3300042: headLight
+    3300044: Group 29
+    3300046: bagLeft
+    3300048: bagRight
+    3300050: engine
+    3300052: exhaustLeft
+    3300054: exhaustRight
+    3300056: fenderBack
+    3300058: fenderFront
+    3300060: seat
+    3300062: tank
+    4300000: Mesh Group 3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh light_left
+    4300016: Mesh wheelFrontLeft
+    4300018: Mesh wheelFrontRight
+    4300020: Mesh Group 19
+    4300022: Mesh Group 21
+    4300024: Mesh Group 17
+    4300026: Mesh Group 23
+    4300028: Mesh Group 25
+    4300030: Mesh headLight
+    4300032: Mesh handleBar
+    4300034: Mesh handle
+    4300036: Mesh handle
+    4300038: Mesh tank
+    4300040: Mesh engine
+    4300042: Mesh exhaustRight
+    4300044: Mesh fenderFront
+    4300046: Mesh seat
+    4300048: Mesh exhaustLeft
+    4300050: Mesh bagLeft
+    4300052: Mesh bagRight
+    4300054: Mesh fenderBack
+    4300056: Mesh wheelRearRight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: c290b1beb839c564eb4d6e1c244ede6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bag
+    second: {fileID: 2100000, guid: 5f25d25e4b1423d4dacb6d31c3d10c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 209c4f22364a09b4aaa26c027003f335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodyDark
+    second: {fileID: 2100000, guid: 211e3dee7bc23c64c97a3d3ad1815469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a53c43b2146365e4dbace655b21c06e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: e62ea67049094b740ba5fef686d53576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 7a4bf4d92275d294db53b5b404715840, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

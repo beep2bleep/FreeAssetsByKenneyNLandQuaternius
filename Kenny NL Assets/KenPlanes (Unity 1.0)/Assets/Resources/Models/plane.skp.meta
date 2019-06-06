@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 87557b0f131d808459d12c21a285f879
+timeCreated: 1541074012
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6c1933eaa36f502e10155cfef7e1ad5f
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.7207611, y: 4.226541, z: -5.18941}
+      lookAt: {x: 0.3248836, y: 0.29406536, z: -2.0077846}
+      up: {x: 0.3897746, y: 0.69323117, z: 0.606223}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#2
+    100006: Component#2 1
+    100008: Component#3
+    100010: Component#3 1
+    100012: Group 1
+    100014: Group 3
+    100016: Group 5
+    100018: Group 7
+    100020: //RootNode
+    100022: Component#2 2
+    100024: Component#2 3
+    100026: Component#3 2
+    100028: Component#3 3
+    100030: Component#4
+    100032: Component#4 1
+    100034: Group 2
+    100036: Group 23
+    100038: Group 25
+    100040: Group 27
+    100042: Group 29
+    100044: Group 4
+    100046: Group 6
+    100048: Group 8
+    100050: player1
+    100052: player2
+    100054: Group 10
+    100056: Group 14
+    100058: back
+    100060: body
+    100062: engineLeft
+    100064: engineRight
+    100066: Group 13
+    100068: Group 9
+    100070: wingLeft
+    100072: wingRight
+    100074: flap
+    100076: flap 1
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#2
+    400006: Component#2 1
+    400008: Component#3
+    400010: Component#3 1
+    400012: Group 1
+    400014: Group 3
+    400016: Group 5
+    400018: Group 7
+    400020: //RootNode
+    400022: Component#2 2
+    400024: Component#2 3
+    400026: Component#3 2
+    400028: Component#3 3
+    400030: Component#4
+    400032: Component#4 1
+    400034: Group 2
+    400036: Group 23
+    400038: Group 25
+    400040: Group 27
+    400042: Group 29
+    400044: Group 4
+    400046: Group 6
+    400048: Group 8
+    400050: player1
+    400052: player2
+    400054: Group 10
+    400056: Group 14
+    400058: back
+    400060: body
+    400062: engineLeft
+    400064: engineRight
+    400066: Group 13
+    400068: Group 9
+    400070: wingLeft
+    400072: wingRight
+    400074: flap
+    400076: flap 1
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#2
+    2300006: Component#2 1
+    2300008: Component#3
+    2300010: Component#3 1
+    2300012: Group 1
+    2300014: Group 3
+    2300016: Group 5
+    2300018: Group 7
+    2300020: Component#2 2
+    2300022: Component#2 3
+    2300024: Component#3 2
+    2300026: Component#3 3
+    2300028: Component#4
+    2300030: Component#4 1
+    2300032: Group 2
+    2300034: Group 23
+    2300036: Group 25
+    2300038: Group 27
+    2300040: Group 29
+    2300042: Group 4
+    2300044: Group 6
+    2300046: Group 8
+    2300048: Group 10
+    2300050: Group 14
+    2300052: back
+    2300054: body
+    2300056: engineLeft
+    2300058: engineRight
+    2300060: Group 13
+    2300062: Group 9
+    2300064: wingLeft
+    2300066: wingRight
+    2300068: flap
+    2300070: flap 1
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#2
+    3300006: Component#2 1
+    3300008: Component#3
+    3300010: Component#3 1
+    3300012: Group 1
+    3300014: Group 3
+    3300016: Group 5
+    3300018: Group 7
+    3300020: Component#2 2
+    3300022: Component#2 3
+    3300024: Component#3 2
+    3300026: Component#3 3
+    3300028: Component#4
+    3300030: Component#4 1
+    3300032: Group 2
+    3300034: Group 23
+    3300036: Group 25
+    3300038: Group 27
+    3300040: Group 29
+    3300042: Group 4
+    3300044: Group 6
+    3300046: Group 8
+    3300048: Group 10
+    3300050: Group 14
+    3300052: back
+    3300054: body
+    3300056: engineLeft
+    3300058: engineRight
+    3300060: Group 13
+    3300062: Group 9
+    3300064: wingLeft
+    3300066: wingRight
+    3300068: flap
+    3300070: flap 1
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Component#1
+    4300010: Mesh Component#2
+    4300012: Mesh Component#3
+    4300014: Mesh Group 2
+    4300016: Mesh Group 4
+    4300018: Mesh Group 6
+    4300020: Mesh Group 8
+    4300022: Mesh Group 23
+    4300024: Mesh Group 27
+    4300026: Mesh Component#4
+    4300028: Mesh Group 10
+    4300030: Mesh body
+    4300032: Mesh back
+    4300034: Mesh engineRight
+    4300036: Mesh wingRight
+    4300038: Mesh Group 9
+    4300040: Mesh flap
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
